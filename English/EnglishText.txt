@@ -1,0 +1,11 @@
+            welcomeTxt = "Welcome to FiveM Editor Engine !";
+            settingTraslatingTxt = "Settings";
+            yesBtnText = "Yes";
+            noBtnText = "No";
+            insertProductKeyText = "Enter your access key for the Software:";
+            checkBtn1 = "Access";
+            okBtn1 = "OK";
+            serverDsLogin1 = "Request an Access Key in our Discord server!";
+            italianText1 = "Italian";
+            englishText1 = "English";
+            languageTxt1 = "Language";
