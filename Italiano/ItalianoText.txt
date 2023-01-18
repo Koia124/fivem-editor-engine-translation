@@ -8,4 +8,4 @@
             serverDsLogin1 = "Richiedi una Chiave di accesso nel nostro server Discord!";
             italianText1 = "Italiano";
             englishText1 = "Inglese";
-            languageTxt1 = "Lingua";
+            languageTxt1 = "Tua madre";
